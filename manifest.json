@@ -8,26 +8,8 @@
   "theme_color": "#FF8FAB",
   "orientation": "portrait",
   "icons": [
-    {
-      "src": "/AI-Stand-up/icons/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "/AI-Stand-up/icons/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    },
-    {
-      "src": "/AI-Stand-up/icons/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable"
-    }
+    {"src": "/AI-Stand-up/favicon.svg", "sizes": "192x192", "type": "image/svg+xml"}
   ],
-  "categories": [
-    "health",
-    "productivity"
-  ],
+  "categories": ["health", "productivity"],
   "lang": "zh-CN"
 }
